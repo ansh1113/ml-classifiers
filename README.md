@@ -4,10 +4,10 @@ Implementations of classic machine learning classifiers from scratch using NumPy
 
 ## Models
 
-- **Perceptron** — multi-class perceptron with exponential learning rate decay
-- **Logistic Regression** — binary classifier with numerically stable sigmoid and gradient descent
-- **Softmax Regression** — multi-class cross-entropy with L2 regularization
-- **SVM** — multi-class Weston-Watkins hinge loss with L2 regularization
+- **Perceptron** - multi-class perceptron with exponential learning rate decay
+- **Logistic Regression** - binary classifier with numerically stable sigmoid and gradient descent
+- **Softmax Regression** - multi-class cross-entropy with L2 regularization
+- **SVM** - multi-class Weston-Watkins hinge loss with L2 regularization
 
 ## Structure
 
